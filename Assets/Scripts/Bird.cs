@@ -35,6 +35,7 @@ public class Bird : MonoBehaviour
             transform.position.x > rightBorder.transform.position.x ||
             _timeSitting > _limitedTimeSitting) 
         {
+
             string currentSceneName = SceneManager.GetActiveScene().name;
             SceneManager.LoadScene(currentSceneName);
         }
