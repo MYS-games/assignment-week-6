@@ -11,7 +11,6 @@ public class MoveScene : MonoBehaviour
     string level4 = "Level4";
 
 
-    float timer = 0f;
 
     // Update is called once per frame
     void Update()
