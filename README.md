@@ -4,7 +4,7 @@
 * Yuval Zarbiv
 * Matti Stern
 
-We chose section 3 aמd create Angry Birds game with 4 levels.
+We chose section 3 and create Angry Birds game with 4 levels.
 
 Each level has a bird, some pigs, a torch and some levels also have boxes.
 The goal is to hit all the pigs at once.
